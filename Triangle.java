@@ -121,6 +121,7 @@ class Triangle extends Draw {
 				// Character
 				System.out.println("[character]			{OPTIONAL}");
 				System.out.println("The character that will draw the triangle");
+				System.out.println("If a character doesn't print,\nPut it under qoutes\nLike:\njava Triangle 7 10 \"#\"");
 				System.out.println("----------------------------------------------");
 				System.out.println("----------------------------------------------");
 				System.out.println("------------- Triangle  Patterns -------------");
