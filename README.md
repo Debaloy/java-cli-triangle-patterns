@@ -39,4 +39,4 @@ Like so:\
 ![example](example.png "example")
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](LICENSE.txt)
